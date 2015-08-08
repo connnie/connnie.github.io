@@ -1,0 +1,64 @@
+body {
+	background-color: #CCFFE5;
+}
+p {
+	color: #FFB6C1;
+	font-size: 20px;
+	font-family: 'Helvetica';
+	font-weight: bold;
+}
+
+h1 {
+	color: white;
+	font-family: 'Pacifico', cursive;
+}
+
+
+.turquioise-background {
+	padding: 40px;
+	margin: 20px;
+	background-color: #00CED1;
+}
+
+.red-background {
+	background-color: red;
+}
+
+.dragons{
+	font-family: monospace;
+}
+
+#main-content{
+	padding: 30px 100px 60px 100px;
+	border: solid #FFFFFF 20px;
+
+}
+
+#subcontent{
+	padding: 10px;
+}
+
+::selection{
+	background-color: #00CED1;
+}
+
+div:hover{
+	color: white;
+}
+
+li:hover{
+	font-weight: bold;
+	}
+
+.image{
+	max-height: 50%;
+	max-width: 50%;
+}
+
+.image-container{
+	display: block;
+	width: 1000px;
+	background-color: white;
+	padding: 40px;
+	margin: 20px;
+}
